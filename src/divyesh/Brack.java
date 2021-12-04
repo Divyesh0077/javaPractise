@@ -8,7 +8,9 @@ public class Brack {
                     break;
                 }
                 System.out.println(i);
+
             }
+
         }
     }
 

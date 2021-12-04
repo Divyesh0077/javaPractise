@@ -1,6 +1,6 @@
 package Trycatch;
 
-public class Trytest {
+class Try {
 
     public static void main(String[] args) {
 

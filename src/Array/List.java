@@ -10,6 +10,8 @@ public class List {
 
         nameList.add("Divyesh");
         nameList.add("Tushar");
+
+
         nameList.add("Nirav");
         nameList.add("Rahul");
         nameList.add( 1, "rahul");
@@ -38,3 +40,4 @@ public class List {
         }
     }
 }
+

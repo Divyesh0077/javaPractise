@@ -1,4 +1,4 @@
-package Javaswitch;
+package Javaswitch1;
 
 public class Switchmonth {
 
