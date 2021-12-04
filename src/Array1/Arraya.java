@@ -1,6 +1,6 @@
-package Array;
+package Array1;
 
-public class Array1 {
+public class Arraya {
     public static void main(String[] args) {
 
         String[] name;
