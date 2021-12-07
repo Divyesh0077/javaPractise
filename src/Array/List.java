@@ -24,7 +24,7 @@ public class List {
 
         }
 
-      // for (int i=0;i<nameList.size();i++);
+         // for (int i=0;i<nameList.size();i++);
         //int i = 0;
         //System.out.println(nameList.get(i));
 
